@@ -32,8 +32,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# turbo
-.turbo
+# Storybook
+*storybook.log
+storybook-static
 
-# inspiration files
-_inspiration
+# local inspiration files
+base/
