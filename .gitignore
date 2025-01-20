@@ -37,4 +37,4 @@ yarn-error.log*
 storybook-static
 
 # local inspiration files
-base/
+base
